@@ -30,7 +30,7 @@ Documentaries: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HE
 
 ////////////////////////////////////////////////////////////////////API KEY////////////////////////////////////////////////////////////////////////////
 
-API_KEY = "YOUR API KEY"
+API_KEY = "YOUR API KEY" 55b0523c6e4b4b86b3f9f8d1452d3a25
 
 Footer
 © 2023 GitHub, Inc.
