@@ -11,8 +11,8 @@ function App() {
       <NavBar />
       <Banner />
       <RowPost url={Originals} title='Netflix Originals' />
-      <RowPost url={Action} title='Action' isSmall/> {/* ithinte titleum ,images(genre), pinna ithinte sizeum maatenm */}{/*njmk common aayt venda karyengal ellam props vayi pass cheythit athil implement cheyyan */}
-      <RowPost url={Comedy} title='Comedy' isSmall/> {/* ithinte titleum ,images(genre), pinna ithinte sizeum maatenm */}{/*njmk common aayt venda karyengal ellam props vayi pass cheythit athil implement cheyyan */}
+      <RowPost url={Action} title='Action' isSmall/>
+      <RowPost url={Comedy} title='Comedy' isSmall/> 
     </div>
   );
 }
